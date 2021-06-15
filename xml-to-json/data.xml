@@ -1,0 +1,10 @@
+ <!-- Xml هنا تضع اكواد ال 
+ data.xml او تقوم بتغير اسم الملف التي لديك الى 
+ لاتنسى حذف هذا ايضا -->
+
+<note>
+<to>Tove</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
+</note>
